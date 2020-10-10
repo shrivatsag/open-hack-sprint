@@ -15,7 +15,7 @@
 
 ### 2. Rookie (Know little coding but not Git and GitHub & 2nd year student):
 
-    #### -Write a code of your choice in any language and make a pull request.
+       -Write a code of your choice in any language and make a pull request.
     
 
 
@@ -30,7 +30,7 @@
 
 ### 4. Intermediate(Into a domain):
     
-    #### -Write a code of your choice in any language and make a pull request.
+       -Write a code of your choice in any language and make a pull request.
 
 
 
